@@ -1,7 +1,7 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1.0",
+  "versionCode": 3,
+  "versionName": "1.2.0",
   "apkUrl": "https://github.com/banseok/creditcard-tracker-apk/raw/main/CardTracker-debug.apk",
-  "releaseNotes": "카드 목록 정렬(발급일, 연회비, 카드사별 필터) 및 앱 내 원탭 업데이트 기능 추가",
-  "updatedAt": "2026-11-13"
+  "releaseNotes": "✨ Gemini AI 기능 추가 (카드 컨시어지 & 연회비 킵/캔슬 진단, 마일모아 핫딜 AI 맞춤 분석, 카드·베네핏 자동 채우기) 및 마일모아 최신 딜 정렬 개선",
+  "updatedAt": "2026-11-15"
 }
